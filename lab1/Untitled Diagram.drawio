@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T10:28:55.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="ENl97ErIUfVwiZt_nGJU" type="github"><diagram id="hMDTCTa_9yiri2KpgTAD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-03T10:46:36.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S6CsS-Jwz67dCsES3WL1" version="20.5.1" type="github">
+  <diagram id="hMDTCTa_9yiri2KpgTAD" name="Page-1">
+    <mxGraphModel dx="938" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="300" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324.38" y="240" width="261.25" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-3" value="" style="rounded=0;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-2" value="Image Vault" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-4" value="Container&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-7" value="Pod" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324.38" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m630I_Uh2UMf3J-9INZQ-9" target="m630I_Uh2UMf3J-9INZQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-9" value="Node minikube port 8200" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-11" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="275" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="m630I_Uh2UMf3J-9INZQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-12" value="Service" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m630I_Uh2UMf3J-9INZQ-17" target="m630I_Uh2UMf3J-9INZQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m630I_Uh2UMf3J-9INZQ-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="30" width="75" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
