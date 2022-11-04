@@ -25,7 +25,8 @@ Date of finished: 03.11.2022 <br />
 ### 5. Run port forwarding and connect to the containers through a web browser.
 ![My Image](images/image5.png)
 
-### 6. Check the web browser page for the REACT_APP_USERNAME, REACT_APP_COMPANY_NAME and Container name variables.
+### 6. Check the web browser page for the REACT_APP_USERNAME, REACT_APP_COMPANY_NAME and Container name variables. Do they change?
+#### They don't change because port-forwarding do not load-balance between replicas of a deployment, binds only to one pod.
 ![My Image](images/image6.png)
 
 ### 7. Check container logs, attach logs to the report.
