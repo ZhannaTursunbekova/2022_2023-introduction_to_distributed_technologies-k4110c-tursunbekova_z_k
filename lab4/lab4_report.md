@@ -6,7 +6,7 @@ Group: K4110c <br />
 Author: Tursunbekova Zhanna Khasanovna <br />
 Lab: Lab4 <br />
 Date of create:   10.11.2022 <br />
-Date of finished: 19.11.2022 <br />
+Date of finished: 17.11.2022 <br />
 
 # Name of lab: Networking in Minikube, CNI and CoreDNS
 
@@ -32,7 +32,7 @@ Date of finished: 19.11.2022 <br />
 
 ![My Image](images/image8.png)
 
-### 6. Create a service through which you will have access to these pods. The choice of service type is up to you.
+### 6. Create a service through which you will have access to these pods.
 ![My Image](images/image9.png)
 
 ### 7. Run minikube in port forwarding mode and connect to your containers through a web browser.
