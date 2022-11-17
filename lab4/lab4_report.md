@@ -43,6 +43,6 @@ Date of finished: 17.11.2022 <br />
 ### 8. Using kubectl exec, go to any pod and try to ping the other pod, the results of the pings should be attached to the report.
 ![My Image](images/image12.png)
 
-### 8. The scheme.
+### 9. The scheme.
 ![My Image](Diagram4.drawio.png)
 
